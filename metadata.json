@@ -1,0 +1,7 @@
+{
+  "name": "Phitsanulok Local Election Portal",
+  "description": "ระบบบริหารจัดการข้อมูลการเลือกตั้งท้องถิ่น จังหวัดพิษณุโลก ตรวจสอบคุณสมบัติผู้สมัคร ผลคะแนน คำพิพากษาศาล และส่งออกรายงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
